@@ -1,3 +1,4 @@
+![Interface](./image.png)
 ## 🚀 GH-TagRotator
 A Python script to rotate your Discord clan tag across multiple servers using the Discord API, created by **NightKikko**! 🌟
 
